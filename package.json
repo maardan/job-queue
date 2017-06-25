@@ -1,0 +1,13 @@
+{
+  "name": "Massdrop Job Queue",
+  "description": "Implementation of asynchronous job queue in Node.js",
+  "author": {
+    "name": "Mardan Anwar"
+  },
+  "version": "0.1.0",
+  "dependencies": {
+    "kue": "~0.6.2"
+  },
+  "devDependencies": {},
+  "readmeFilename": "README.md"
+}
